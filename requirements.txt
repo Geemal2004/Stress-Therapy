@@ -1,0 +1,6 @@
+python-dotenv==1.0.0
+langchain-groq==0.0.3
+gtts==2.4.0
+PyAudio==0.2.13
+SpeechRecognition==3.10.0
+python-dotenv==1.0.0
